@@ -8,7 +8,7 @@ def reverse_list(mylist): #!f #!s;keeptags
 def add(a,b): #!f
     """ Given two numbers `a` and `b` this function should simply return their sum:
     > add(a,b) = a+b """
-    return a+b
+    return a-b
 
 if __name__ == "__main__":
     # Example usage:
